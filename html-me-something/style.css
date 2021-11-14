@@ -1,0 +1,41 @@
+h2  {
+  font-family: Georgia;
+  font-size: large;
+  font-style: italic;
+}
+h3  {
+  font-size: medium;
+}
+div {
+  column-count: 3;
+  column-gap: 40px;
+  column-rule: 4px double #040811ef;
+  font-family: Tahoma;
+  text-indent: 20px;
+}
+.div2 {
+  column-count: 2;
+  column-gap: 80px;
+  column-rule: 4px double #040811ef;
+  font-family: Tahoma;
+  text-indent: 20px;
+}
+p {
+    break-after: always;
+    color: black;
+  }
+.imagePhoto {
+    height: 300px;
+    width: 300px;
+    image-rendering: high-quality;
+  }
+.photoSubtitle {
+    font-size: small;
+    font-family: 'Times New Roman';
+    color: black;
+    text-indent: 0px;
+}
+.resumeBullet {
+  padding-left: 40px;
+  text-indent: 0px;
+}
