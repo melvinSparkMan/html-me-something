@@ -1,0 +1,21 @@
+.imagePhoto2 {
+    padding-left: 0px;
+    position: relative;
+    height: 300px;
+    width: 250px;
+    image-rendering: high-quality;
+}
+.midWestPhoto {
+    padding-left: 0px;
+    position: relative;
+    height: 1000px;
+    width: 1000px;
+    image-rendering: high-quality;
+}
+.californiaPhoto {
+    padding-left: 0px;
+    position: relative;
+    height: 1000px;
+    width: 1200px;
+    image-rendering: high-quality;
+}
