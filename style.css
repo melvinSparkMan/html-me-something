@@ -1,5 +1,5 @@
 
-.mainHeading {
+#mainHeading {
   padding: 60px;
   text-align: center;
   background: red;
@@ -7,7 +7,8 @@
   font-size: 60px;
 }
 body {
-  margin: 48px;
+  margin: 8px;
+  display: block;
 }
 h2  {
   font-family: 'Times New Roman';
@@ -37,6 +38,16 @@ p {
     break-after: always;
     color: black;
   }
+#testP {
+    break-after: always;
+    
+  }
+.funParagraph {
+    color: green;
+    font-family: Tahoma;
+    text-align: justify;
+    margin: 8px;
+}
 .imagePhoto {
     padding-left: 0px;
     position: relative;
